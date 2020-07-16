@@ -37,7 +37,7 @@
     "@fortawesome/fontawesome-free-webfonts": "^1.0.9",
     "angulartics2": "^6.0.0",
     "core-js": "^2.5.6",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "rxjs": "^6.3.1",
     "zone.js": "^0.8.26"
   },
